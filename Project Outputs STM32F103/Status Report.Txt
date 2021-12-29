@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [STM32F103C6T7A.PcbDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 22:31:13 On 29.12.2021
